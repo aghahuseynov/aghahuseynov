@@ -11,7 +11,7 @@ My name is Agha Huseynov.
 
 ## Job
 
-I'm working as a Software Engineer in [Elçi Teknoloji](https://elciteknoloji.com/)
+I'm working as a Software Engineer at [Elçi Teknoloji](https://elciteknoloji.com/)
 
 ## How to reach me 📫
 
