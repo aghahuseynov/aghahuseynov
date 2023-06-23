@@ -6,11 +6,11 @@ My name is Agha Huseynov.
 
 ## Job
 
-I'm working as a Software Engineer at [Elçi Teknoloji](https://elciteknoloji.com/)
+I'm working as a Software Engineer at [Gamesys]([https://elciteknoloji.com/](https://www.gamesysgroup.com/))
 
 ## How to reach me 📫
 
-You can find and get touch with me on these accounts!
+You can find and get in touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/aghahuseynov-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agha-huseynov-52a807114/)
 
